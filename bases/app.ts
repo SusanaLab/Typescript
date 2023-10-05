@@ -26,7 +26,7 @@ Acuaman = 0,
     const fuerzaSuperman: fuerza= fuerza.Superman;
     const fuerzaBatman: fuerza= fuerza.Batman;
     const fuerzaAcuaman: fuerza= fuerza.Acuaman;
-
+console.log("prueba de codigo");
   
     // Retorno de funciones
     function activar_batiseñal():string{
@@ -36,6 +36,7 @@ Acuaman = 0,
     function pedir_ayuda():void{
       console.log('Auxilio!!!');
     }
+  console.log(pedir_ayuda);
   
     // Aserciones de Tipo
     const poder: any = '100';

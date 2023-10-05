@@ -19,6 +19,7 @@ avenger = 150.97832;
 
 //* any puede aceptar culquier tipo de dato y objeto 
 let arr:any = [1, 2,3, 4, 5, 6, 7];
+console.log(arr);
 
 /* function saludar(mensaje:string = "mundo"){
  

@@ -22,3 +22,4 @@ let superman:{ name:string, age?:number, powers:string[], getName?: () => string
 })()
 
 //* Esta linea dice que es opcional recibir un argumento y que debe devolver un string:   getName?: () => string
+//& Si es posible agregar métodos dentro de los tipos 

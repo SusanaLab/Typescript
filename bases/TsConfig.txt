@@ -1,0 +1,4 @@
+  "sourceMap": true,     usarlo para saber la linea de codigo en ypescript dond eesta el error
+"removeComments": true,   quitar los comentarios por que consumen sierta memoria
+ "outFile": "./main.js",   Crea un archivo de js, toma todos los  archivos 
+ "module":"amd"

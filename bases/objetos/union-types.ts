@@ -1,4 +1,4 @@
-(()=>{
+/* (()=>{
 
 
 type Hero={
@@ -9,13 +9,13 @@ name:string
 }
 
 
-let myCustomVariable : (string| number |Hero )='susana';
+let myCustomVariable : (string| number | Hero )='susana';
 console.log(typeof myCustomVariable);
-//!output tipo string
 
-myCustomVariable=20
+
+myCustomVariable= 20
 console.log(typeof myCustomVariable);
-//!output tipo number
+
 
 myCustomVariable={
 name:'SU',
@@ -23,9 +23,9 @@ name:'SU',
   powers:[1]
 }
 console.log(typeof myCustomVariable);
-//!output tipo object
+
 
 console.log(myCustomVariable);
 
 
-})()
+})()  */
