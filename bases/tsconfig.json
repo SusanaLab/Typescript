@@ -105,14 +105,14 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  },
+  }
   //!esto hace que se escluyan todos los archivos dentro de esa carpeta
   //!agregar una coma despues de las llavez 
   //"exclude": [
    // "carpeta/*ts"
  // ]
  //!Aqui solo lo que quiero incluir 
- "include":[
- "namesspaces"
- ]
+/*  "include":[
+ "app.ts"
+ ] */
 }
